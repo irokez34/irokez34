@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Oleksii Zhmuida 👋
 
-<!--
-**irokez34/irokez34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a full-stack developer based in the Netherlands, focused on building modern and practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into real products, solving problems, and continuously improving my skills as a developer.
+
+## 🚀 What I'm working on
+
+I'm currently working on a couple of personal projects where I focus on:
+
+- Building full-stack web applications
+- Creating responsive and user-friendly interfaces
+- Designing REST APIs and backend architecture
+- Working with databases and authentication
+- Improving my React and Node.js skills
+
+More projects are coming soon.
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+`JavaScript` · `React` · `Redux Toolkit` · `HTML` · `CSS` · `Sass`
+
+**Backend**
+
+`Node.js` · `Express.js` · `REST API`
+
+**Database & Tools**
+
+`MongoDB` · `Mongoose` · `Git` · `GitHub` · `Vite`
+
+## 📫 Contact
+
+I'm open to new opportunities, collaborations, and interesting projects.
+
+- LinkedIn: https://www.linkedin.com/in/oleksii-zhmuida/
+- Email:  jhmdaurelwork@gmail.com
